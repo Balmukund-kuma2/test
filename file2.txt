@@ -1,0 +1,5 @@
+I am learning Unix & Git
+Entering random data
+pressing I gives ability to edit data in this file 
+then press esc
+then write :wq  in the lat line w-->save q-->quit
