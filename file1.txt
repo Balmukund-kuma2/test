@@ -3,3 +3,4 @@ Just adding one more line of text
 add new line
 line 5
 line 6
+testing pull command which is a combo of fetch+merge
